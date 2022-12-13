@@ -11,7 +11,7 @@ const Caro = () => {
         <img
           className="d-block w-100"
           src="1.jpg"
-          alt="First slide"
+          alt="1.jpg"
         />
         <Carousel.Caption>
           
@@ -21,7 +21,7 @@ const Caro = () => {
         <img
           className="d-block w-100"
           src="2.jpg"
-          alt="Second slide"
+          alt="2.jpg"
         />
 
         <Carousel.Caption>
@@ -32,7 +32,7 @@ const Caro = () => {
         <img
           className="d-block w-100"
           src="3.jpg"
-          alt="Third slide"
+          alt="3.jpg"
         />
 
         <Carousel.Caption>
