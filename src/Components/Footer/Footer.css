@@ -1,0 +1,10 @@
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+}
+.fbtn{
+    font-size: 2rem;
+    background-color: transparent;
+    border: none;
+    color: white;
+}

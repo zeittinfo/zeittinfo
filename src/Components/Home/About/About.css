@@ -1,0 +1,69 @@
+
+.atitle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 1.5rem;
+    text-decoration: underline;
+    margin-bottom: 5rem;
+    margin-top: 5rem
+}
+.team1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-bottom: 10rem;
+}
+.team2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-bottom: 10rem;
+}
+li{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 7rem;
+    font-size: 2rem;
+    color: black;
+}
+li>a{
+    color: black;
+}
+.image{
+    height: 10rem;
+    width: 10rem;
+    margin-top: 1rem;
+   margin-left: 4rem;
+}
+.name{
+    margin-left: 6rem;
+}
+.person{
+    height: 32rem;
+    width: 20rem;
+    border-radius: 15px; 
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+   cursor: pointer;
+   transition: transform .1s;
+}
+@media screen and (max-width:720px) {
+    .team1{
+        display: flex;
+        flex-direction: column;
+    }
+    .team1>*{
+        margin-left: 5rem;
+        margin-top: 5rem;
+    }
+
+    .team2{
+        display: flex;
+        flex-direction: column;
+    }
+    .team2>*{
+        margin-left: 5rem;
+        margin-top: 5rem;
+    }
+    
+}

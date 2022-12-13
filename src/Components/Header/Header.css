@@ -1,0 +1,15 @@
+.header{
+    height: 4rem;
+    width: 100%;
+    z-index: 9;
+    position: sticky;
+    top: 0;
+}
+.topleft{
+    display: flex;
+    gap: 2rem;
+}
+.topleft>*{
+    font-size: 1.4rem;
+}
+
