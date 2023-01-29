@@ -12,4 +12,15 @@
 .topleft>*{
     font-size: 1.4rem;
 }
+#about:active{
+    text-decoration: none;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+a:visited{
+    text-decoration: none;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
 

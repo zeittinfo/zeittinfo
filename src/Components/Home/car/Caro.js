@@ -10,7 +10,7 @@ const Caro = () => {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="1.jpg"
+          src="./public/1.jpg"
           alt="1.jpg"
         />
         <Carousel.Caption>
@@ -20,7 +20,7 @@ const Caro = () => {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="2.jpg"
+          src="/2.jpg"
           alt="2.jpg"
         />
 
