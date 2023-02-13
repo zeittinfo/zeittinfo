@@ -23,7 +23,6 @@
 li{
     display: flex;
     justify-content: space-evenly;
-    margin-top: 7rem;
     font-size: 2rem;
     color: black;
 }
@@ -51,10 +50,11 @@ li>a{
     .team1{
         display: flex;
         flex-direction: column;
+        margin-top: 1rem;
     }
     .team1>*{
-        margin-left: 5rem;
-        margin-top: 5rem;
+        margin-left: 3rem;
+        margin-top: 4rem;
     }
 
     .team2{
@@ -62,7 +62,7 @@ li>a{
         flex-direction: column;
     }
     .team2>*{
-        margin-left: 5rem;
+        margin-left: 3rem;
         margin-top: 5rem;
     }
     

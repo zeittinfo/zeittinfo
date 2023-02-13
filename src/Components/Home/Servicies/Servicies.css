@@ -62,7 +62,7 @@
         flex-direction: column;
     }
     .main>*{
-        margin-left: 5rem;
+        margin-left: 2.5rem;
         margin-top: 5rem;
     }
 }

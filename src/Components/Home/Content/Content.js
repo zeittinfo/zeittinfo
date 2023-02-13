@@ -2,7 +2,7 @@ import React from 'react'
 import './Content.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { motion } from 'framer-motion'
-import { faDigitalOcean, faHouzz,  faRocketchat, faStrava, faTelegramPlane, faWordpress,} from '@fortawesome/free-brands-svg-icons'
+import { faDigitalOcean, faHouzz,  faRocketchat, faSquareFontAwesomeStroke, faStrava, faTelegramPlane, faWordpress,} from '@fortawesome/free-brands-svg-icons'
 import { useInView} from 'react-intersection-observer'
 import { useEffect } from 'react'
 import { useAnimation } from 'framer-motion'
@@ -39,17 +39,12 @@ const Content = () => {
     animate={animation}>
       <section>
         <i class="icon fas fa-home">
-        <FontAwesomeIcon icon={faHouzz} />
+        <FontAwesomeIcon icon={faSquareFontAwesomeStroke} />
         </i>
         <div class="details">
-          <span class="title">Title of Section 1</span>
-          <span>1st Jan 2021</span>
+          <span class="title">BUSINESS ANALYSIS</span>
         </div>
-        <p>Lorem ipsum dolor sit ameters consectetur adipisicing elit. Sed qui veroes praesentium maiores, sint eos vero sapiente voluptas debitis dicta dolore.</p>
-        <div class="bottom">
-          <a href="#!">Read more</a>
-          <i>- Someone famous</i>
-        </div>
+        <p>ZEIT focus on the needs of your target audience to perform requirements engineering and outline the scope of the solution</p>
       </section>
     </motion.div>
     <motion.div  className="row row-2"
@@ -60,14 +55,9 @@ const Content = () => {
         <FontAwesomeIcon icon={faStrava} />
         </i>
         <div class="details">
-          <span class="title">Title of Section 2</span>
-          <span>2nd Jan 2021</span>
+          <span class="title">FRONT END DESIGN AND DEVELOPMENT</span>
         </div>
-        <p>Lorem ipsum dolor sit ameters consectetur adipisicing elit. Sed qui veroes praesentium maiores, sint eos vero sapiente voluptas debitis dicta dolore.</p>
-        <div class="bottom">
-          <a href="#!">Read more</a>
-          <i>- Someone famous</i>
-        </div>
+        <p>The ZEIT designers closely analyze the user audience to understand their needs and reflect these findings in UI design. Having agreed on the look and feel of a web app with project stakeholders, we bring it to life with front-end coding.</p>
       </section>
     </motion.div>
     <motion.div class="row row-1"
@@ -80,14 +70,9 @@ const Content = () => {
         <FontAwesomeIcon icon={faRocketchat} />
         </i>
         <div class="details">
-          <span class="title">Title of Section 3</span>
-          <span>3rd Jan 2021</span>
+          <span class="title">BACK END DEVELOPMENT</span>
         </div>
-        <p>Lorem ipsum dolor sit ameters consectetur adipisicing elit. Sed qui veroes praesentium maiores, sint eos vero sapiente voluptas debitis dicta dolore.</p>
-        <div class="bottom">
-          <a href="#!">Read more</a>
-          <i>- Someone famous</i>
-        </div>
+        <p>We accurately implement the business logic of your web app on the back end. We rely on proven frameworks to ensure fast and quality coding.</p>
       </section>
     </motion.div>
     <motion.div className="row row-2"
@@ -100,14 +85,10 @@ const Content = () => {
         <FontAwesomeIcon icon={faWordpress} />
         </i>
         <div class="details">
-          <span class="title">Title of Section 4</span>
-          <span>4th Jan 2021</span>
+          <span class="title">INTEGRATION</span>
         </div>
-        <p>Lorem ipsum dolor sit ameters consectetur adipisicing elit. Sed qui veroes praesentium maiores, sint eos vero sapiente voluptas debitis dicta dolore.</p>
-        <div class="bottom">
-          <a href="#!">Read more</a>
-          <i>- Someone famous</i>
-        </div>
+        <p>We set up APIs to integrate your web app with corporate or third-party systems and services. App integration ensures immediate data synchronization across systems</p>
+        
       </section>
     </motion.div>
     <motion.div className="row row-1"
@@ -119,14 +100,11 @@ const Content = () => {
         <FontAwesomeIcon icon={faTelegramPlane} />
         </i>
         <div class="details">
-          <span class="title">Title of Section 5</span>
-          <span>5th Jan 2021</span>
+          <span class="title">CONTINUOUS SUPPORT AND EVOLUTION</span>
         </div>
-        <p>Lorem ipsum dolor sit ameters consectetur adipisicing elit. Sed qui veroes praesentium maiores, sint eos vero sapiente voluptas debitis dicta dolore.</p>
-        <div class="bottom">
-          <a href="#!">Read more</a>
-          <i>- Someone famous</i>
-        </div>
+        <p>•	ZEIT advance your web-based software to keep it efficient, competitive on the market, and compliant with all your evolving business needs.
+•	We help you provide high availability and trouble-free functionality of your web app.
+</p>
       </section>
     </motion.div>
     <motion.div class="row row-2"
@@ -139,14 +117,10 @@ const Content = () => {
         <FontAwesomeIcon icon={faDigitalOcean} />
         </i>
         <div class="details">
-          <span class="title">Title of Section 6</span>
-          <span>6th Jan 2021</span>
+          <span class="title">WEB REDESIGN</span>
         </div>
-        <p>Lorem ipsum dolor sit ameters consectetur adipisicing elit. Sed qui veroes praesentium maiores, sint eos vero sapiente voluptas debitis dicta dolore.</p>
-        <div class="bottom">
-          <a href="#!">Read more</a>
-          <i>- Someone famous</i>
-        </div>
+        <p>ZEIT also improves visual appeal, functional fullness and usability of existing web apps.As result our clients see increased web conversions, reduced maintenance costs, better ROI from optimized business operations.</p>
+       
       </section>
     </motion.div>
   </div>

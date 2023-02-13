@@ -20,11 +20,11 @@
     .indust{
         display: flex;
         flex-direction: column;
-        margin-left: 10rem;
+        margin-left: 7.5rem;
     }
     .indust2{
         display: flex;
         flex-direction: column;
-        margin-left: 10rem;
+        margin-left: 7.5rem;
     }
 }
