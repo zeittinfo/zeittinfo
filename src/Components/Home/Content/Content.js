@@ -103,8 +103,8 @@ const Content = () => {
           <span class="title">CONTINUOUS SUPPORT AND EVOLUTION</span>
         </div>
         <p>ZEITT advances your web-based software to keep it efficient, competitive on the market, and compliant with all your evolving business needs.
-•	We help you provide high availability and trouble-free functionality of your web app.
-</p>
+          We help you provide high availability and trouble-free functionality of your web app.
+        </p>
       </section>
     </motion.div>
     <motion.div class="row row-2"

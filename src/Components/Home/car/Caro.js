@@ -11,7 +11,7 @@ const Caro = () => {
         <h1>Grow your business with <br/>world class technology</h1>
         <p> </p>
       Zeitt helps you to automate your business process in a cost- compressed fashion <br/>without compromising a commitment to best practices.<br/>
-      We helps to create all types of web-based software and ensure great experience for web users.
+      We help to create all types of web-based software and ensure great experience for web users.
      </p>
      <img className='carimg'src={require("../../../images/dev.webp")} alt =''/>
       </div>

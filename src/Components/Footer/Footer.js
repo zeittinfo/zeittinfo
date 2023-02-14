@@ -35,7 +35,7 @@ const Footer = () => {
       </MDBContainer>
 
       <div className='text-center p-3' style={{ backgroundColor: 'rgba(0, 0, 0, 0.2)' }}>
-        © 2022 Copyright:<br></br>
+        © 2023 Copyright:<br></br>
         <a className='text-white' href='https://zeitt.info/'>
           zeitt.info
         </a>
