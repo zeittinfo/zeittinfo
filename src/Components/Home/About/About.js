@@ -36,8 +36,8 @@ const About = () => {
       <Card.Body>
         <Card.Title className='name'>Harsha</Card.Title>
         <Card.Text>
-        A skilled frontend developer with a talent for creating engaging and visually appealing user interfaces.<br/> With a strong foundation in HTML, CSS, and JavaScript,
-         I has the ability to turn even the most complex designs into functioning web pages.
+        A skilled frontend developer with a talent of creating engaging and visually appealing user interfaces.<br/> With a strong foundation in HTML, CSS, and JavaScript,
+         I have the ability to turn even the most complex designs into functioning web pages.
         </Card.Text>
         <li>
               <a href='https://www.instagram.com/har_sha_2003/'>
@@ -87,10 +87,10 @@ const About = () => {
         <Card.Title className='name'>Revanth</Card.Title>
         <Card.Text>
         A highly skilled Full Stack Developer with a passion for building and delivering top-notch web applications. <br/>With expertise in both frontend and backend technologies, 
-        I brings a unique combination of technical and creative skills to every project.
+        I bring a unique combination of technical and creative skills to every project.
         </Card.Text>
         <li>
-              <a href='https://instagram.com/revanth020?igshid=YmMyMTA2M2Y='>
+              <a href='https://instagram.com/revanx20?igshid=ZDdkNTZiNTM='>
                 <FontAwesomeIcon icon={faInstagram} />
                 </a>
                 <a href='https://www.linkedin.com/in/revanth-p-b45b32212'>
@@ -109,7 +109,7 @@ const About = () => {
         <Card.Title className='name'>Vishan PG</Card.Title>
         <Card.Text>
         A talented full-stack developer with a passion for creating innovative and efficient web applications. With a strong background in both frontend and backend development,
-         I has the skills and expertise to bring any project to life.
+         I have the skills and expertise to bring any project to life.
         </Card.Text>
         <li>
               <a href='https://www.instagram.com/iam_vishan_/'>

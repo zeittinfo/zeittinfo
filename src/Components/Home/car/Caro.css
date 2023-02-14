@@ -36,19 +36,20 @@
         flex-direction: column;
     }
     .con>h1{
-        margin-right: 5rem;
+        padding: 2rem;
         
     }
+    .con{
+        margin-top: 7rem;
+        margin-left: 0; 
+        padding: 2rem;
+       }
     .carimg{
         display: none;
     }
     .carbtn{
-        margin-left: 10rem;
+        margin-left: 8rem;
         margin-top: 2rem;
-    }
-    .con>p{
-        margin-right: 5rem;
-        
     }
     
 }

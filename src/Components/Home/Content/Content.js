@@ -44,7 +44,7 @@ const Content = () => {
         <div class="details">
           <span class="title">BUSINESS ANALYSIS</span>
         </div>
-        <p>ZEIT focus on the needs of your target audience to perform requirements engineering and outline the scope of the solution</p>
+        <p>ZEITT focuses on the needs of your target audience to perform requirements engineering and outline the scope of the solution</p>
       </section>
     </motion.div>
     <motion.div  className="row row-2"
@@ -57,7 +57,7 @@ const Content = () => {
         <div class="details">
           <span class="title">FRONT END DESIGN AND DEVELOPMENT</span>
         </div>
-        <p>The ZEIT designers closely analyze the user audience to understand their needs and reflect these findings in UI design. Having agreed on the look and feel of a web app with project stakeholders, we bring it to life with front-end coding.</p>
+        <p>The ZEITT designers closely analyze the user audience to understand their needs and reflect these findings in UI design. Having agreed on the look and feel of a web app with project stakeholders, we bring it to life with front-end coding.</p>
       </section>
     </motion.div>
     <motion.div class="row row-1"
@@ -102,7 +102,7 @@ const Content = () => {
         <div class="details">
           <span class="title">CONTINUOUS SUPPORT AND EVOLUTION</span>
         </div>
-        <p>•	ZEIT advance your web-based software to keep it efficient, competitive on the market, and compliant with all your evolving business needs.
+        <p>ZEITT advances your web-based software to keep it efficient, competitive on the market, and compliant with all your evolving business needs.
 •	We help you provide high availability and trouble-free functionality of your web app.
 </p>
       </section>
@@ -119,7 +119,7 @@ const Content = () => {
         <div class="details">
           <span class="title">WEB REDESIGN</span>
         </div>
-        <p>ZEIT also improves visual appeal, functional fullness and usability of existing web apps.As result our clients see increased web conversions, reduced maintenance costs, better ROI from optimized business operations.</p>
+        <p>ZEITT also improves visual appeal, functional fullness and usability of existing web apps.As result our clients see increased web conversions, reduced maintenance costs, better ROI from optimized business operations.</p>
        
       </section>
     </motion.div>
